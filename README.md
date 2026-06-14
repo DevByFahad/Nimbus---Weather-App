@@ -25,7 +25,6 @@ https://devbyfahad.github.io/Nimbus---Weather-App/
 
 <img width="100%" alt="Nimbus Weather Search" src="Screenshot 1.png">
 
-> 📌 Replace these image paths with your actual screenshots stored inside the `/images` folder.
 
 ---
 
